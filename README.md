@@ -1,13 +1,44 @@
 ## Hi there 👋
 
-I'm **Mugisha Chrispin**, a passionate software developer specializing in backend engineering.
+I'm **Mugisha Crispin**, a passionate software developer specializing in backend engineering.
 
-- 🔭 I’m currently working on various projects using technologies like **Typescript**, **Flask**, **Node.js**, **Nest.js**, **React.js**, and **Tailwind**.
-- 🌱 I’m currently learning more about advanced backend frameworks and cloud technologies.
-- 👯 I’m looking to collaborate on open-source projects or any interesting backend-related initiatives.
-- 🤔 I’m looking for help with optimizing my code and learning best practices in software development.
-- 💬 Ask me about my experiences with backend development or any of the technologies I use.
-- 📫 How to reach me: [My GitHub](https://github.com/Mchiir/)
+---
+
+### 🚀 Technologies
+
+- **Typescript** 🟡
+- **Flask** 🔥
+- **Node.js** 🌐
+- **Nest.js** 🐦
+- **React.js** ⚛️
+- **Tailwind** 🎨
+
+---
+
+### 📈 Current Focus
+
+- 🔭 Working on various projects using the above technologies.
+- 🌱 Learning more about advanced backend frameworks and cloud technologies.
+
+---
+
+### 🤝 Collaboration
+
+- 👯 Looking to collaborate on open-source projects or any interesting backend-related initiatives.
+- 🤔 Seeking help with optimizing my code and learning best practices in software development.
+
+---
+
+### 💬 Get in Touch
+
+- Ask me about my experiences with backend development or any of the technologies I use.
+- 📫 [My GitHub](https://github.com/Mchiir/)
+- 📫 [My Gmail](mugishachrispin590@gmail.com)
+  
+---
+
+### About Me
+
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I like teaching more than learning!
-- 🎓 I’m a student at **Rwanda Coding Academy High School**.
+- 🎓 Student at **Rwanda Coding Academy High School**.
