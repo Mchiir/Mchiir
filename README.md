@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mchrispin</h1>
 <h3 align="center">A passionate software engineer from Rwanda</h3>
 
-- 🔭 I’m currently working on **--**
+- 🔭 I’m currently working on **Library management system.**
 
 - 🌱 I’m currently learning **Django framework**
 
-- 👯 I’m looking to collaborate on **--**
+- 👯 I’m looking to collaborate on **Any Software development as a backend developer.**
 
-- 🤝 I’m looking for help with **--**
+- 🤝 I’m looking for help with **Junior Software developers to advance to their goals acheivement.**
 
 - 👨‍💻 All of my projects are available at [--](--)
 
