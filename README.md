@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mchrispin</h1>
-<h3 align="center">A passionate software engineer from Rwanda</h3>
+<h3 align="center">A passionate software developer from Rwanda</h3>
 
 - 🔭 I’m currently working on **Library management system.**
 
