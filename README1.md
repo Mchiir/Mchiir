@@ -42,3 +42,7 @@ I'm **Mugisha Crispin**, a passionate software developer specializing in backend
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I like teaching more than learning!
 - 🎓 Student at **Rwanda Coding Academy High School**.
+
+
+Most used languages:
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mchiir&show_icons=true&locale=en&layout=compact" alt="mchiir" /></p>
