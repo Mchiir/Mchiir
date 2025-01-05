@@ -14,11 +14,7 @@
 
 - 💬 Ask me about **C/C++, Nodejs, java, Typescript, Flask**
 
-- 📫 How to reach me **mugishachrispin590@gmail.com**
-
-- 📄 Know about my experiences [--](--)
-
-- ⚡ Fun fact [--]()
+- 📫 I'm available at **mugishachrispin590@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
