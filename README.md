@@ -22,7 +22,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/mchrispin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mchrispin" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/mugisha-chrispin-062867314" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mugisha chrispin" height="30" width="40" /></a>
 <a href="https://instagram.com/c_hrispin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="c_hrispin" height="30" width="40" /></a>
 </p>
