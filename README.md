@@ -9,10 +9,8 @@
 
 - 🤝 I’m looking to support **Junior Software Developers in achieving their career goals**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://github.com/Mchiir) on
+- 👨‍💻 You can view my websites on
   [Render with Quiz app](https://quick-quiz-app.onrender.com) or [Vercel with Todo app](https://todoapp-client-omega.vercel.app) and friendly DEMO Nextjs [calculator](https://next-calc-nine.vercel.app)
-
-- 📝 I regularly write articles on [Medium and Dev.to](--)
 
 - 💬 Ask me about **C/C++, Nodejs, java, Typescript, Flask**
 
@@ -20,12 +18,12 @@
 
 - 📄 Know about my experiences [--](--)
 
-- ⚡ Fun fact **--**
+- ⚡ Fun fact [--]()
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/mchrispin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mchrispin" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mugisha chrispin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mugisha chrispin" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mugisha-chrispin-062867314" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mugisha chrispin" height="30" width="40" /></a>
 <a href="https://instagram.com/c_hrispin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="c_hrispin" height="30" width="40" /></a>
 </p>
 
