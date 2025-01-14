@@ -11,8 +11,6 @@
 
 - 💬 Ask me about **C/C++, Nodejs, java, Typescript, Flask**
 
-- 📫 I'm available at **mugishachrispin590@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/mugisha-chrispin-062867314" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mugisha chrispin" height="30" width="40" /></a>
