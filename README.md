@@ -9,9 +9,6 @@
 
 - 🤝 I’m looking to support **Junior Software Developers in achieving their career goals**
 
-- 👨‍💻 You can view my websites on
-  [Render with Quiz app](https://quick-quiz-app.onrender.com) or [Vercel with Todo app](https://todoapp-client-omega.vercel.app) and friendly DEMO Nextjs [calculator](https://next-calc-nine.vercel.app)
-
 - 💬 Ask me about **C/C++, Nodejs, java, Typescript, Flask**
 
 - 📫 I'm available at **mugishachrispin590@gmail.com**
