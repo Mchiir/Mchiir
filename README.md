@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mugisha chrispin</h1>
 <h3 align="center">Passionate Software Developer from Rwanda</h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mchiir&theme=onedark)](https://github.com/mchiir/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Mchiir&theme=onedark)](https://github.com/Mchiir/github-profile-trophy)
 
 - 🔭 I’m currently working on **Volunteer and Eduhub applications.**
 
