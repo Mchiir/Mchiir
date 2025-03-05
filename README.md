@@ -57,9 +57,9 @@
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/> </a>
 </p>
 
-<p>
+<!-- <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mchiir&show_icons=true&locale=en&layout=compact&method=commits" alt="Mchiir's top languages" />
-</p>
+</p> -->
 
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mchiir&theme=dark" alt="Mchiir's GitHub Streak" />
