@@ -1,19 +1,24 @@
 <h1 align="center">Hi 👋, I'm Mchrispin</h1>
-<h3 align="center">A passionate software developer from Rwanda.</h3>
+<h3 align="center">Passionate Software Developer from Rwanda</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Mchiir" alt="Mchiir" /></a> </p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Mchiir" alt="Mchiir's GitHub Trophies" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on **Library management system.**
+- 🔭 I’m currently working on **Volunteer and Eduhub applications.**
 
-- 🌱 I’m currently learning **Django framework**
+- 🌱 Currently learning **Next.js** to enhance my full-stack development skills.
 
-- 👯 I’m looking to collaborate on **Any Software development as a software engineer**
+- 👯 Open to collaborating on **software development projects as a Back-End Engineer.**
 
-- 🤝 I’m looking to support **Junior Software Developers in achieving their career goals**
+- 🤝 Passionate about **mentoring junior developers and supporting their career growth.**
 
-- 💬 Ask me about **C/C++, Nodejs, ReactJS, java, Typescript, Flask**
+- 💬 Ask me about **Node.js, Express.js, React.js, Java, C/C++, TypeScript, Flask, MongoDB, MySQL, PostgreSQL, Docker, Tailwind CSS, Maven.**
 
-<h3 align="left">Connect with me:</h3>
+### <h3 align="left">Connect with me:</h3>
+
 <p align="left">
 <a href="https://www.linkedin.com/in/mugisha-chrispin-062867314" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mugisha chrispin" height="30" width="40" /></a>
 <a href="https://instagram.com/c_hrispin" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="c_hrispin" height="30" width="40" /></a>
@@ -21,7 +26,8 @@
 <a href="https://dribbble.com/Mchiir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="bertiniradukunda" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+### <h3 align="left">Languages and Tools:</h3>
+
 <p align="left">
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
