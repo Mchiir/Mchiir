@@ -58,9 +58,9 @@
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mchiir&show_icons=true&locale=en&layout=compact" alt="Mchiir's top languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mchiir&show_icons=true&locale=en&layout=compact&method=commits" alt="Mchiir's top languages" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mchiir&theme=dark" alt="Mchiir's GitHub Streak" />
-</p>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Mchiir&theme=dark)](https://git.io/streak-stats)
+
