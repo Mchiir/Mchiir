@@ -3,15 +3,15 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Mchiir&theme=onedark)](https://github.com/Mchiir/github-profile-trophy)
 
-- 🔭 I’m currently working on **Volunteer and Eduhub applications.**
+- 🔭 I’m currently working on a **Volunteer application**
 
-- 🌱 Currently learning **Next.js** to enhance my full-stack development skills.
+- 🌱 I'm learning **Next.js** to level up my full-stack development skills.
 
-- 👯 Open to collaborating on **software development projects as a Back-End Engineer.**
+- 👯 Open to collaborating on **Web software development projects**
 
-- 🤝 Passionate about **mentoring junior developers and supporting their career growth.**
+- 🤝 Passionate about mentoring junior developers and helping them grow in their careers.
 
-- 💬 Ask me about **Node.js, Express.js, React.js, Java, C/C++, TypeScript, Flask, MongoDB, MySQL, PostgreSQL, Docker, Tailwind CSS, Maven.**
+- 💬 Feel free to ask me about **Node.js, Express.js, React.js, Java, C/C++, TypeScript, Flask, MongoDB, MySQL, PostgreSQL, Docker, Tailwind CSS, Maven.**
 
 ### <h3 align="left">Connect with me:</h3>
 
