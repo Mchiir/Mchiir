@@ -19,7 +19,7 @@
 <a href="https://www.linkedin.com/in/mugisha-chrispin-062867314" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mugisha chrispin" height="30" width="40" /></a>
 <a href="https://instagram.com/c_hrispin" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="c_hrispin" height="30" width="40" /></a>
 <a href="https://fb.com/61552781384927" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bertin.iradukunda.7" height="30" width="40" /></a>
-<a href="https://dribbble.com/Mchiir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="bertiniradukunda" height="30" width="40" /></a>
+<a href="https://dribbble.com/Mchiir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="mugishaChrispin" height="30" width="40" /></a>
   <a href="https://discord.gg/thehooper_32925" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Mchiir" height="30" width="40" />
   </a>
