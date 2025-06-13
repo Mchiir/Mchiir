@@ -13,6 +13,8 @@
 
 - 💬 Feel free to ask me about **Node.js, Express.js, React.js, Java, C/C++, TypeScript, Flask, MongoDB, MySQL, PostgreSQL, Docker, Tailwind CSS, Maven.**
 
+- 🛠 Motto: "Fix it, refactor it, or read the docs until it makes sense."
+
 ### <h3 align="left">Connect with me:</h3>
 
 <p align="left">
