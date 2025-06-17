@@ -6,7 +6,6 @@
 <a target="_blank" href="https://www.instagram.com/c_hrispin" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=#F35369" alt="instagram" /></a>
 </p>
 
----
 
 ### <h3 align="left">Languages and Tools:</h3>
 
@@ -43,7 +42,6 @@
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/> </a>
 </p>
 
----
 
 <!-- <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mchiir&show_icons=true&locale=en&layout=compact&method=commits" alt="Mchiir's top languages" />
